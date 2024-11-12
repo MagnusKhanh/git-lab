@@ -1,6 +1,6 @@
-   **FULL NAME**
+                **FULL NAME**
 LE BAO KHANH
-   **GitHub user name**
+                **GitHub user name**
 MagnusKhanh
-   **EMAIL**
+                **EMAIL**
 24107332@st.phenikaa-uni.edu.vn
